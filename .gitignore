@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.zip
+extract_test/
+.DS_Store
+.env
